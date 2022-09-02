@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 471e4e9b29a7991449b61010c573ec3b
+timeCreated: 1623101024
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barney_Head
+    100002: Barney_Hips
+    100004: Barney_LeftArm
+    100006: Barney_LeftFoot
+    100008: Barney_LeftForeArm
+    100010: Barney_LeftHand
+    100012: Barney_LeftHandIndex1
+    100014: Barney_LeftHandIndex2
+    100016: Barney_LeftHandIndex3
+    100018: Barney_LeftHandIndex4
+    100020: Barney_LeftHandMiddle1
+    100022: Barney_LeftHandMiddle2
+    100024: Barney_LeftHandMiddle3
+    100026: Barney_LeftHandMiddle4
+    100028: Barney_LeftHandPinky1
+    100030: Barney_LeftHandPinky2
+    100032: Barney_LeftHandPinky3
+    100034: Barney_LeftHandPinky4
+    100036: Barney_LeftHandRing1
+    100038: Barney_LeftHandRing2
+    100040: Barney_LeftHandRing3
+    100042: Barney_LeftHandRing4
+    100044: Barney_LeftHandThumb1
+    100046: Barney_LeftHandThumb2
+    100048: Barney_LeftHandThumb3
+    100050: Barney_LeftHandThumb4
+    100052: Barney_LeftLeg
+    100054: Barney_LeftShoulder
+    100056: Barney_LeftToeBase
+    100058: Barney_LeftUpLeg
+    100060: Barney_Neck
+    100062: Barney_RightArm
+    100064: Barney_RightFoot
+    100066: Barney_RightForeArm
+    100068: Barney_RightHand
+    100070: Barney_RightHandIndex1
+    100072: Barney_RightHandIndex2
+    100074: Barney_RightHandIndex3
+    100076: Barney_RightHandIndex4
+    100078: Barney_RightHandMiddle1
+    100080: Barney_RightHandMiddle2
+    100082: Barney_RightHandMiddle3
+    100084: Barney_RightHandMiddle4
+    100086: Barney_RightHandPinky1
+    100088: Barney_RightHandPinky2
+    100090: Barney_RightHandPinky3
+    100092: Barney_RightHandPinky4
+    100094: Barney_RightHandRing1
+    100096: Barney_RightHandRing2
+    100098: Barney_RightHandRing3
+    100100: Barney_RightHandRing4
+    100102: Barney_RightHandThumb1
+    100104: Barney_RightHandThumb2
+    100106: Barney_RightHandThumb3
+    100108: Barney_RightHandThumb4
+    100110: Barney_RightLeg
+    100112: Barney_RightShoulder
+    100114: Barney_RightToeBase
+    100116: Barney_RightUpLeg
+    100118: Barney_Spine
+    100120: Barney_Spine1
+    100122: //RootNode
+    400000: Barney_Head
+    400002: Barney_Hips
+    400004: Barney_LeftArm
+    400006: Barney_LeftFoot
+    400008: Barney_LeftForeArm
+    400010: Barney_LeftHand
+    400012: Barney_LeftHandIndex1
+    400014: Barney_LeftHandIndex2
+    400016: Barney_LeftHandIndex3
+    400018: Barney_LeftHandIndex4
+    400020: Barney_LeftHandMiddle1
+    400022: Barney_LeftHandMiddle2
+    400024: Barney_LeftHandMiddle3
+    400026: Barney_LeftHandMiddle4
+    400028: Barney_LeftHandPinky1
+    400030: Barney_LeftHandPinky2
+    400032: Barney_LeftHandPinky3
+    400034: Barney_LeftHandPinky4
+    400036: Barney_LeftHandRing1
+    400038: Barney_LeftHandRing2
+    400040: Barney_LeftHandRing3
+    400042: Barney_LeftHandRing4
+    400044: Barney_LeftHandThumb1
+    400046: Barney_LeftHandThumb2
+    400048: Barney_LeftHandThumb3
+    400050: Barney_LeftHandThumb4
+    400052: Barney_LeftLeg
+    400054: Barney_LeftShoulder
+    400056: Barney_LeftToeBase
+    400058: Barney_LeftUpLeg
+    400060: Barney_Neck
+    400062: Barney_RightArm
+    400064: Barney_RightFoot
+    400066: Barney_RightForeArm
+    400068: Barney_RightHand
+    400070: Barney_RightHandIndex1
+    400072: Barney_RightHandIndex2
+    400074: Barney_RightHandIndex3
+    400076: Barney_RightHandIndex4
+    400078: Barney_RightHandMiddle1
+    400080: Barney_RightHandMiddle2
+    400082: Barney_RightHandMiddle3
+    400084: Barney_RightHandMiddle4
+    400086: Barney_RightHandPinky1
+    400088: Barney_RightHandPinky2
+    400090: Barney_RightHandPinky3
+    400092: Barney_RightHandPinky4
+    400094: Barney_RightHandRing1
+    400096: Barney_RightHandRing2
+    400098: Barney_RightHandRing3
+    400100: Barney_RightHandRing4
+    400102: Barney_RightHandThumb1
+    400104: Barney_RightHandThumb2
+    400106: Barney_RightHandThumb3
+    400108: Barney_RightHandThumb4
+    400110: Barney_RightLeg
+    400112: Barney_RightShoulder
+    400114: Barney_RightToeBase
+    400116: Barney_RightUpLeg
+    400118: Barney_Spine
+    400120: Barney_Spine1
+    400122: //RootNode
+    7400000: mixamo.com
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Barney_Hips
+        weight: 1
+      - path: Barney_Hips/Barney_LeftUpLeg
+        weight: 1
+      - path: Barney_Hips/Barney_LeftUpLeg/Barney_LeftLeg
+        weight: 1
+      - path: Barney_Hips/Barney_LeftUpLeg/Barney_LeftLeg/Barney_LeftFoot
+        weight: 1
+      - path: Barney_Hips/Barney_LeftUpLeg/Barney_LeftLeg/Barney_LeftFoot/Barney_LeftToeBase
+        weight: 1
+      - path: Barney_Hips/Barney_RightUpLeg
+        weight: 1
+      - path: Barney_Hips/Barney_RightUpLeg/Barney_RightLeg
+        weight: 1
+      - path: Barney_Hips/Barney_RightUpLeg/Barney_RightLeg/Barney_RightFoot
+        weight: 1
+      - path: Barney_Hips/Barney_RightUpLeg/Barney_RightLeg/Barney_RightFoot/Barney_RightToeBase
+        weight: 1
+      - path: Barney_Hips/Barney_Spine
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandIndex1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandIndex1/Barney_LeftHandIndex2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandIndex1/Barney_LeftHandIndex2/Barney_LeftHandIndex3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandIndex1/Barney_LeftHandIndex2/Barney_LeftHandIndex3/Barney_LeftHandIndex4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandMiddle1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandMiddle1/Barney_LeftHandMiddle2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandMiddle1/Barney_LeftHandMiddle2/Barney_LeftHandMiddle3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandMiddle1/Barney_LeftHandMiddle2/Barney_LeftHandMiddle3/Barney_LeftHandMiddle4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandPinky1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandPinky1/Barney_LeftHandPinky2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandPinky1/Barney_LeftHandPinky2/Barney_LeftHandPinky3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandPinky1/Barney_LeftHandPinky2/Barney_LeftHandPinky3/Barney_LeftHandPinky4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandRing1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandRing1/Barney_LeftHandRing2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandRing1/Barney_LeftHandRing2/Barney_LeftHandRing3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandRing1/Barney_LeftHandRing2/Barney_LeftHandRing3/Barney_LeftHandRing4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandThumb1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandThumb1/Barney_LeftHandThumb2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandThumb1/Barney_LeftHandThumb2/Barney_LeftHandThumb3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_LeftShoulder/Barney_LeftArm/Barney_LeftForeArm/Barney_LeftHand/Barney_LeftHandThumb1/Barney_LeftHandThumb2/Barney_LeftHandThumb3/Barney_LeftHandThumb4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_Neck
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_Neck/Barney_Head
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandIndex1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandIndex1/Barney_RightHandIndex2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandIndex1/Barney_RightHandIndex2/Barney_RightHandIndex3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandIndex1/Barney_RightHandIndex2/Barney_RightHandIndex3/Barney_RightHandIndex4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandMiddle1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandMiddle1/Barney_RightHandMiddle2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandMiddle1/Barney_RightHandMiddle2/Barney_RightHandMiddle3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandMiddle1/Barney_RightHandMiddle2/Barney_RightHandMiddle3/Barney_RightHandMiddle4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandPinky1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandPinky1/Barney_RightHandPinky2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandPinky1/Barney_RightHandPinky2/Barney_RightHandPinky3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandPinky1/Barney_RightHandPinky2/Barney_RightHandPinky3/Barney_RightHandPinky4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandRing1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandRing1/Barney_RightHandRing2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandRing1/Barney_RightHandRing2/Barney_RightHandRing3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandRing1/Barney_RightHandRing2/Barney_RightHandRing3/Barney_RightHandRing4
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandThumb1
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandThumb1/Barney_RightHandThumb2
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandThumb1/Barney_RightHandThumb2/Barney_RightHandThumb3
+        weight: 1
+      - path: Barney_Hips/Barney_Spine/Barney_Spine1/Barney_RightShoulder/Barney_RightArm/Barney_RightForeArm/Barney_RightHand/Barney_RightHandThumb1/Barney_RightHandThumb2/Barney_RightHandThumb3/Barney_RightHandThumb4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

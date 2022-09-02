@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c234f2caeeb03b64caef39a0b9adae67, type: 3}
+  m_Name: CivilState
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 20b352ef497b7b94e90a5f0c2192d9b6, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 76d777a84669ad54c85bd6d08ef8f53f, type: 2}
+    trueState: {fileID: 11400000, guid: 5f57170ec6dffc7488b0a2159dbccf3d, type: 2}
+    falseState: {fileID: 11400000, guid: 5f57170ec6dffc7488b0a2159dbccf3d, type: 2}
+  sceneGizmoColor: {r: 0, g: 0.591, b: 1, a: 1}
