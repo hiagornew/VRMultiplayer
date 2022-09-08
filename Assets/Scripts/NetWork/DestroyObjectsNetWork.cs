@@ -2,41 +2,47 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
+using UnityEngine.Events;
 
 public class DestroyObjectsNetWork : MonoBehaviourPun
 {
 
-	public static DestroyObjectsNetWork instance;
+	[SerializeField]
+	private float timeToDestroy;
+	[SerializeField]
+	private bool destroyAfterStart;
 
-	private void Awake()
+	[SerializeField]
+	private UnityEvent onDestroy;
+
+
+	private void Start()
 	{
-		if(instance == null)
+		if (destroyAfterStart)
 		{
-			instance = this;
+			Invoke("DestrotObject", timeToDestroy);
+			
 		}
-		else if(instance != this)
-		{
-			Destroy(this);
-		}
-		DontDestroyOnLoad(instance);
 	}
 
-	public void DestrotObject(GameObject obj, float time = 0)
+	public void DestrotObject()
 	{
-		StartCoroutine(DestoyObjectDelay(obj, time));
+		Debug.Log("Try Destroy");
+		this.GetComponent<PhotonView>().RPC("DestroyRPC", RpcTarget.AllBuffered);
 	}
 
 	IEnumerator DestoyObjectDelay(GameObject obj,float time)
 	{
 		yield return new WaitForSeconds(time);
-		obj.GetComponent<PhotonView>().RPC("DestroyRPC", RpcTarget.AllBuffered, obj);
+		obj.GetComponent<PhotonView>().RPC("DestroyRPC", RpcTarget.AllBuffered);
 		
 	}
 
 	[PunRPC]
-	public void DestroyRPC(GameObject obj)
+	public void DestroyRPC()
 	{
-		Destroy(obj);
+		Destroy(this.gameObject,timeToDestroy);
+		onDestroy?.Invoke();
 	}
 
 }
